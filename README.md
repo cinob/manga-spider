@@ -1,13 +1,3 @@
-# ts-start-template
-Clear typescript start template. Lint & auto fix
+# 动漫狂漫画下载器
 
-# Usage
-Clone code
-```bash
-npx degit cinob/ts-start-template your-program
-```
-
-Install
-```
-pnpm install
-```
+将`main.ts`初始化函数`init()`中id改为相应漫画id
